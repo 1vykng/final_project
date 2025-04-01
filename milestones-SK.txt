@@ -1,0 +1,32 @@
+﻿Click here to access the git repo
+
+
+Task
+	Points
+	Description
+	Time Log (≥6 hrs + 1 hour in lab)
+	12 pts
+	Accurate, detailed time log of your individual contributions outside and during lab.
+	Personal Report
+	6 pts
+	Short write-up explaining progress, what went well, and what was difficult.
+	Task 1: Initial Puzzle Parser
+	8 pts
+	Code that reads a simple grid input and stores it in a usable structure (e.g., 2D vector).
+	Task 2: Solver Function
+	8 pts
+	A basic function that identifies possible matches or clears from a grid. Doesn’t have to be complete.
+	Task 3: Integration into LazyFoo
+	4 pts
+	Integrate your solver into a LazyFoo-style SDL window as a visualization
+	Git Usage
+	2 pts
+	Committed meaningful updates under your own Git account. Used Git branches or good commit messages.
+	
+
+What I worked on:
+        Implementation of the Tetris game for further plans on creating an AI that plays the game for the player. This took around 2 hours alone from myself from start to finish.
+
+
+Report:
+This challenge is by far the easiest part of the final project. It was difficult at first figuring out what we needed to create in terms of the aspects of the rubric, but once we figured that out, we went on our own and decided how heavily to weigh each category on our own.
