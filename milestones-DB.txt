@@ -1,0 +1,30 @@
+﻿Click here to access the git repo
+
+
+Task
+	Points
+	Description
+	Time Log (≥5 hrs)
+	12 pts
+	Accurate, detailed time log of your individual contributions outside and during lab.
+	Personal Report
+	4 pts
+	Short write-up explaining progress, what went well, and what was difficult.
+	Task 1: Initial Puzzle Parser
+	4 pts
+	Code that reads a simple grid input and stores it in a usable structure (e.g., 2D vector).
+	Task 2: Solver Function
+	8 pts
+	A basic function that identifies possible matches or clears from a grid. Doesn’t have to be complete.
+	Task 3: Integration into LazyFoo
+	8 pts
+	Integrate your solver into a LazyFoo-style SDL window as a visualization
+	Git Usage
+	4 pts
+	Committed meaningful updates under your own Git account. Used Git branches or good commit messages.
+	
+
+
+
+Report:
+This challenge went pretty smoothly with solid division of labor and good communication. It was very simple to create the rubric and get our files into a repository.
