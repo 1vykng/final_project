@@ -131,7 +131,7 @@ def evaluate_grid(grid):
             elif seen:
                 holes += 1
     bump = sum(abs(heights[i] - heights[i+1]) for i in range(GRID_WIDTH-1))
-    return .5*sum(heights) + .7*holes + .2*bump
+    return .7*sum(heights) + .5*holes + .2*bump
 
 # uses bot to choose best rotation and position for a piece
 def pick_best_move(p, locked):
